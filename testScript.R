@@ -3,3 +3,5 @@
 
 data <- read.csv("testData.csv", header = TRUE)
 x <- 2,320
+
+y <- 23
